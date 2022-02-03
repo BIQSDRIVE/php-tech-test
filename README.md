@@ -1,6 +1,6 @@
-## Task: console command to convert an XML file to Json
+## Task: CLI script to convert an XML file to Json
 
-Work description:
+#### Work description:
 
 * conversion of an XML file to a JSON file.
 * the xml file contains country names and an additional count field.
@@ -10,7 +10,7 @@ Work description:
 * expected output file(s): data/output/YY_MM_DD_HH_MM_SS_data.json
 * an example of the JSON structure can be found in data/output/example.json
 
-Requirements / todo:
+#### Requirements / todo:
 
 * create a CLI script to convert the XML file to JSON
 * Sort the information by countryCode in ascending order.

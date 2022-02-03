@@ -1,4 +1,4 @@
-## Task: CLI script to convert an XML file to Json
+## Task: Craete a CLI script to convert an XML file to Json
 
 #### Work description:
 
@@ -10,7 +10,7 @@
 * expected output file(s): data/output/Y-M-d_H-i-s_data.json (eg. 2022-02-01_17-10-31_data.json)
 * an example of the JSON structure can be found in data/output/example.json
 
-#### Requirements / todo:
+#### Requirements:
 
 * create a CLI script to convert the XML file to JSON
 * Sort the information by countryCode in ascending order.
@@ -56,11 +56,14 @@ JSON structure of 1 country item:
 * add a dropdown filter for the batch_id
 	* upon initial load, no country information is displayed, it is required to select a batch_id first
 	* when a batch_id is selected a list is retrieved from the server and displayed
-* expose an API endpoint to fetch a list of country items, filtered by batch_id
+* expose an API endpoint to fetch a list of country items, filtered by batch_id, sorted by county_code
 * expose an API endpoint to fetch a unique list of sorted batch_ids (for the filter)
 
 ### Extra task 3: test your work
 * add unit / integration / functional tests to prove your solution works.
+
+## Technology stack
+We would use PHP 8, Symfony, Doctrine, MySQL, VueJs, but feel free to use the PHP / Javascipt stack you are most comfortable with.
 
 ## Evaluation - what are we looking for in the solution?
 * clean code (maintainability, readability, testability and comprehensibility)

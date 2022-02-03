@@ -2,8 +2,8 @@
 
 #### Work description:
 
-* conversion of an XML file to a JSON file.
-* the xml file contains country names and an additional count field.
+* conversion of an XML file (data/input/data.xml) to a JSON file.
+* the xml file contains country names and an additional count field for each country.
 * a country can appear multiple times in the XML document.
 * the JSON file needs to contain a sum of the count values (= totalCount) + country appearances count (= itemCount), grouped by country code. 
 * additional information for each country needs to be fetched from a REST API.  
@@ -22,8 +22,8 @@ example: https://restcountries.com/v3.1/name/belgium
 
 * countryCode: cca3 country code
 * countryNames: list of nativeName, separated by ,
-* meta.currency: 1 item in currencies array
-* meta.capital: 1 item in capital array
+* meta.currency: 1st item in currencies array
+* meta.capital: 1st item in capital array
 
 Json structure of 1 country item:
 
@@ -62,7 +62,7 @@ Json structure of 1 country item:
 * add unit / integration / functional tests to prove your solution works.
 
 ## Evaluation - what are we looking for in the solution?
-* does it work?
+* clean code (maintainability, readability, testability and comprehensibility)
 * code organisation
 * data modelling
-* clean code (maintainability, readability, testability and comprehensibility)
+* does it work?

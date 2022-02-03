@@ -19,6 +19,7 @@ Requirements / todo:
 Additional info in the JSON file (from REST service):
 
 example: https://restcountries.com/v3.1/name/belgium
+
 * countryCode: cca3 country code
 * countryNames: list of nativeName, separated by ,
 * meta.currency: 1 item in currencies array

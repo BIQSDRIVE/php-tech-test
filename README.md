@@ -28,13 +28,13 @@ Json structure of 1 country item:
 
 ```
 {
-    "countryCode": "BEL",   // cca3 country code, returned from the restcountries service
-    "countryNames": "Belgien,Belgique,België",  
-    "totalCount": 27,       // sum of count in the XML file for Belgium
-    "itemCount": 2,         // number of Belgium items in the XML file
+    "countryCode": "BEL",                       // cca3 country code, returned from the restcountries service
+    "countryNames": "Belgien,Belgique,België",  // list of all country names, separated by ,
+    "totalCount": 27,                           // sum of count in the XML file for Belgium
+    "itemCount": 2,                             // number of Belgium items in the XML file
     "meta": {
-        "currency": "Euro",     // currency, returned from the restcountries service (name of 1st currency in list)
-        "capital": "Brussels"   // capital, returned from the restcountries service (name of 1st capital in list)
+        "currency": "Euro",                     // currency, returned from the restcountries service (name of 1st currency in list)
+        "capital": "Brussels"                   // capital, returned from the restcountries service (name of 1st capital in list)
     }
 },
 ```

@@ -1,4 +1,4 @@
-## Task: Craete a CLI script to convert an XML file to Json
+## Task: Create a CLI script to convert an XML file to Json
 
 #### Work description:
 

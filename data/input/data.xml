@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <row>
+        <countryName>Switzerland</countryName>
+        <count>1</count>
+    </row>
+    <row>
+        <countryName>Germany</countryName>
+        <count>9</count>
+    </row>
+    <row>
+        <countryName>Belgium</countryName>
+        <count>15</count>
+    </row>
+    <row>
+        <countryName>Netherlands</countryName>
+        <count>5</count>
+    </row>
+    <row>
+        <countryName>Belgium</countryName>
+        <count>12</count>
+    </row>
+    <row>
+        <countryName>Netherlands</countryName>
+        <count>6</count>
+    </row>
+    <row>
+        <countryName>Netherlands</countryName>
+        <count>2</count>
+    </row>
+    <row>
+        <countryName>Germany</countryName>
+        <count>8</count>
+    </row>
+</data>

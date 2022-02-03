@@ -25,7 +25,7 @@ example: https://restcountries.com/v3.1/name/belgium
 * meta.currency: 1st item in currencies array
 * meta.capital: 1st item in capital array
 
-Json structure of 1 country item:
+JSON structure of 1 country item:
 
 ```
 {
@@ -54,10 +54,10 @@ Json structure of 1 country item:
 ### Extra task 2: visualise the information in the database in a VueJs/React component.
 * display the json data in an HTML table (styling is not important)
 * add a dropdown filter for the batch_id
-	* upon initial load, no information is displayed, it is required to select a batch_id 
-	* when a batch_id is selected a new list is retrieved from the server and displayed
+	* upon initial load, no country information is displayed, it is required to select a batch_id first
+	* when a batch_id is selected a list is retrieved from the server and displayed
 * expose an API endpoint to fetch a list of country items, filtered by batch_id
-* expose an API endpoint to fetch a unique list of batch_ids (for the filter)
+* expose an API endpoint to fetch a unique list of sorted batch_ids (for the filter)
 
 ### Extra task 3: test your work
 * add unit / integration / functional tests to prove your solution works.

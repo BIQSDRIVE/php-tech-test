@@ -2,8 +2,8 @@
     {
         "countryCode": "BEL",
         "countryNames": "Belgien,Belgique,België",
-        "totalCount": 27,
-        "itemCount": 2,
+        "totalItemsSold": 27,
+        "appearances": 2,
         "meta": {
             "currency": "Euro",
             "capital": "Brussels"
@@ -12,8 +12,8 @@
     {
         "countryCode": "CHE",
         "countryNames": "Suisse,Schweiz,Svizzera,Svizra",
-        "totalCount": 1,
-        "itemCount": 1,
+        "totalItemsSold": 1,
+        "appearances": 1,
         "meta": {
             "currency": "Swiss franc",
             "capital": "Bern"
@@ -22,8 +22,8 @@
     {
         "countryCode": "DEU",
         "countryNames": "Deutschland",
-        "itemCount": 2,
-        "totalCount": 17,
+        "totalItemsSold": 17,
+        "appearances": 2,
         "meta": {
             "currency": "Euro",
             "capital": "Berlin"
@@ -32,8 +32,8 @@
     {
         "countryCode": "NLD",
         "countryNames": "Nederland",
-        "itemCount": 3,
-        "totalCount": 13,
+        "totalItemsSold": 13,
+        "appearances": 3,
         "meta": {
             "currency": "Euro",
             "capital": "Amsterdam"

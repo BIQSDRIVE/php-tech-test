@@ -2,34 +2,34 @@
 <data>
     <row>
         <countryName>Switzerland</countryName>
-        <count>1</count>
+        <itemsSold>1</itemsSold>
     </row>
     <row>
         <countryName>Germany</countryName>
-        <count>9</count>
+        <itemsSold>9</itemsSold>
     </row>
     <row>
         <countryName>Belgium</countryName>
-        <count>15</count>
+        <itemsSold>15</itemsSold>
     </row>
     <row>
         <countryName>Netherlands</countryName>
-        <count>5</count>
+        <itemsSold>5</itemsSold>
     </row>
     <row>
         <countryName>Belgium</countryName>
-        <count>12</count>
+        <itemsSold>12</itemsSold>
     </row>
     <row>
         <countryName>Netherlands</countryName>
-        <count>6</count>
+        <itemsSold>6</itemsSold>
     </row>
     <row>
         <countryName>Netherlands</countryName>
-        <count>2</count>
+        <itemsSold>2</itemsSold>
     </row>
     <row>
         <countryName>Germany</countryName>
-        <count>8</count>
+        <itemsSold>8</itemsSold>
     </row>
 </data>
